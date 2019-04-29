@@ -1,0 +1,41 @@
+*{
+	margin: 0;
+	padding: 0;
+
+}
+.wrapper{
+	max-width: 1170px;
+	margin:0 auto;
+}
+.header
+{
+	height: 50px;
+
+
+
+}
+
+.navbar-style
+{
+	box-shadow: 0 15px 10px #efefef;
+
+}
+
+.logo
+{
+	height: 65px;
+	padding: 2px 10px;
+   text-align: left;
+}
+
+.container01
+{
+
+	height: : 0px;
+}
+
+.Slider
+{
+	width: 50px;
+}
+
